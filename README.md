@@ -1,6 +1,7 @@
 #Sintax
+```python
 print(zscore(data))
-
+```
 #Input
 ```
 [[2104.    3.]
